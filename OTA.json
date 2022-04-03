@@ -1,6 +1,6 @@
 {
-    "version": V2.6
-    "versionCode": 26
-    "zipUrl": https://github.com/PrincePrikin/PPL-Android12.1/releases/download/new/pplA12.1-ver2.6.zip
-    "changelog": https://raw.githubusercontent.com/PrincePrikin/PPL-Android12.1/main/OTA-Changelog.md
+    "version": "V2.6",
+    "versionCode": "26",
+    "zipUrl": "https://github.com/PrincePrikin/PPL-Android12.1/releases/download/new/pplA12.1-ver2.6.zip",
+    "changelog": "https://raw.githubusercontent.com/PrincePrikin/PPL-Android12.1/main/OTA-Changelog.md"
 }

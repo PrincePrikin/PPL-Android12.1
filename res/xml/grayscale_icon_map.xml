@@ -2,6 +2,12 @@
 <icons>
 <!--Additional themed icons below-->
     <icon
+        drawable="@drawable/themed_icon_wallet"
+        package="com.monefy.app.pro" />
+    <icon
+        drawable="@drawable/themed_icon_wallet"
+        package="com.monefy.app.lite" />
+    <icon
         drawable="@drawable/themed_icon_line"
         package="jp.naver.line.android" />
     <icon
@@ -872,6 +878,9 @@
         drawable="@drawable/themed_icon_mir"
         package="ru.nspk.mir.loyalty" />
 <!--Additional themed gcam mods icons below-->
+    <icon
+        drawable="@drawable/themed_icon_camera"
+        package="com.GoogleCamera.Burial31" />
     <icon
         drawable="@drawable/themed_icon_camera"
         package="com.GoogleCamera.mwp83" />
