@@ -2,6 +2,30 @@
 <icons>
 <!--Additional themed icons below-->
     <icon
+        drawable="@drawable/themed_icon_kb"
+        package="ru.napoleonit.kb" />
+    <icon
+        drawable="@drawable/themed_icon_altosodyssey"
+        package="com.noodlecake.altosodyssey" />
+    <icon
+        drawable="@drawable/themed_icon_taskito"
+        package="com.fenchtose.reflog" />
+    <icon
+        drawable="@drawable/themed_icon_sdek"
+        package="com.logistic.sdek" />
+    <icon
+        drawable="@drawable/themed_icon_ozon"
+        package="ru.ozon.app.android" />
+    <icon
+        drawable="@drawable/themed_icon_deviceinfohw"
+        package="ru.andr7e.deviceinfohw" />
+    <icon
+        drawable="@drawable/themed_icon_monzo_bank"
+        package="co.uk.getmondo" />
+    <icon
+        drawable="@drawable/themed_icon_leapingcat"
+        package="com.leapingcat" />
+    <icon
         drawable="@drawable/themed_icon_line"
         package="jp.naver.line.android" />
     <icon
@@ -850,6 +874,9 @@
     <icon
         drawable="@drawable/themed_icon_palette"
         package="bruhcollective.itaysonlab.tgxthemegenerator" />
+    <icon
+        drawable="@drawable/themed_icon_palette"
+        package="com.the8055u.monetg" />
     <icon
         drawable="@drawable/themed_icon_wolt"
         package="com.wolt.android" />

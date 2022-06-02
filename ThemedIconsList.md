@@ -254,4 +254,15 @@ v2.6:
 •
 
 v2.7:
+• Leapingcat
+• Alto's Odyssey
+• K&B
+• Device Info HW
+• Monzo Bank
+• OZON
+• SDEK (СДЭК)
+• Taskito
+•
+
+v2.8:
 •
