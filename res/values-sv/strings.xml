@@ -373,7 +373,6 @@ tangentbordet"</string>
     <string name="summary_app_suggestions">På översikten och högst upp i listan Alla appar</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s, %2$s</string>
-    <string name="task_view_closed">Uppgiften har stängts</string>
     <string name="taskbar_edu_close">Stäng</string>
     <string name="taskbar_edu_closed">Information om aktivitetsfältet stängdes</string>
     <string name="taskbar_edu_done">Klar</string>

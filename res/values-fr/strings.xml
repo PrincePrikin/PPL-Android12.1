@@ -373,7 +373,6 @@ le clavier"</string>
     <string name="summary_app_suggestions">"Sur l'écran \"Aperçu\" et en haut de la liste \"Toutes les applications\""</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s, %2$s</string>
-    <string name="task_view_closed">Tâche fermée</string>
     <string name="taskbar_edu_close">Fermer</string>
     <string name="taskbar_edu_closed">Infos sur la barre des tâches fermées</string>
     <string name="taskbar_edu_done">OK</string>

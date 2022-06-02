@@ -373,7 +373,6 @@
     <string name="summary_app_suggestions">"ਰੂਪ-ਰੇਖਾ ਵਿੱਚ ਅਤੇ ਤੁਹਾਡੀਆਂ ਸਾਰੀਆਂ ਐਪਾਂ ਦੀ ਸੂਚੀ ਦੇ ਸਿਖਰ 'ਤੇ"</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s, %2$s</string>
-    <string name="task_view_closed">ਕਾਰਜ ਬੰਦ</string>
     <string name="taskbar_edu_close">ਬੰਦ ਕਰੋ</string>
     <string name="taskbar_edu_closed">ਟਾਸਕਵਾਰ ਸਿੱਖਿਆ ਪੈਨਲ ਬੰਦ ਕੀਤਾ ਗਿਆ</string>
     <string name="taskbar_edu_done">ਹੋ ਗਿਆ</string>

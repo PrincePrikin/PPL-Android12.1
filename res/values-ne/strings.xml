@@ -373,7 +373,6 @@
     <string name="summary_app_suggestions">परिदृश्य र तपाईंका सबै अनुप्रयोगहरूको सूचीको शीर्षमा देखाइन्छ</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s, %2$s</string>
-    <string name="task_view_closed">कार्य बन्द गरियो</string>
     <string name="taskbar_edu_close">बन्द गर्नुहोस्</string>
     <string name="taskbar_edu_closed">टास्कबार एजुकेसन बन्द गरिएको छ</string>
     <string name="taskbar_edu_done">सम्पन्न भयो</string>

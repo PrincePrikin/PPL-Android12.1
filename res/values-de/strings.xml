@@ -373,7 +373,6 @@ anzeigen"</string>
     <string name="summary_app_suggestions">In der Übersicht und oben in deiner Liste aller Apps</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s, %2$s</string>
-    <string name="task_view_closed">Aufgabe geschlossen</string>
     <string name="taskbar_edu_close">Schließen</string>
     <string name="taskbar_edu_closed">Anleitung für Taskleiste geschlossen</string>
     <string name="taskbar_edu_done">Fertig</string>

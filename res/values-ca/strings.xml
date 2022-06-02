@@ -373,7 +373,6 @@ sempre"</string>
     <string name="summary_app_suggestions">A Aplicacions recents i a la part superior de la llista Totes les aplicacions</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s; %2$s</string>
-    <string name="task_view_closed">Tasca tancada</string>
     <string name="taskbar_edu_close">Tanca</string>
     <string name="taskbar_edu_closed">"S'ha tancat el tauler educatiu de la barra de tasques"</string>
     <string name="taskbar_edu_done">Fet</string>

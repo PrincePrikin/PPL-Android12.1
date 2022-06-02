@@ -373,7 +373,6 @@
     <string name="summary_app_suggestions">"'အနှစ်ချုပ်' အတွင်းနှင့် သင့် 'အက်ပ်အားလုံး' စာရင်း၏ ထိပ်ဆုံးတွင်"</string>
     <string name="summary_collapsed_preference_list">%1$s၊ %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s၊ %2$s</string>
-    <string name="task_view_closed">လုပ်ဆောင်စရာ ပိတ်ထားသည်</string>
     <string name="taskbar_edu_close">ပိတ်ရန်</string>
     <string name="taskbar_edu_closed">ပညာရေး လုပ်ဆောင်စရာဘား ပိတ်ထားသည်</string>
     <string name="taskbar_edu_done">ပြီးပြီ</string>

@@ -373,7 +373,6 @@
     <string name="summary_app_suggestions">በአጠቃላይ እይታ ውስጥ እና በሁሉም መተግበሪያዎች ዝርዝርዎ አናት ላይ</string>
     <string name="summary_collapsed_preference_list">%1$s፣ %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s፣ %2$s</string>
-    <string name="task_view_closed">ተግባር ተዘግቷል</string>
     <string name="taskbar_edu_close">ዝጋ</string>
     <string name="taskbar_edu_closed">የተግባር አሞሌ ትምህርት ተዘግቷል</string>
     <string name="taskbar_edu_done">ተጠናቅቋል</string>

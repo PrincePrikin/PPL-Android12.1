@@ -373,7 +373,6 @@
     <string name="summary_app_suggestions">ଓଭରଭିଉରେ ଓ ଆପଣଙ୍କ ସମସ୍ତ ଆପ୍ ତାଲିକାର ଶୀର୍ଷରେ</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s %2$s</string>
-    <string name="task_view_closed">ଟାସ୍କ ବନ୍ଦ ହୋଇଯାଇଛି</string>
     <string name="taskbar_edu_close">ବନ୍ଦ କରନ୍ତୁ</string>
     <string name="taskbar_edu_closed">ଟାସ୍କବାର୍ ଶିକ୍ଷା ବନ୍ଦ ହୋଇଯାଇଛି</string>
     <string name="taskbar_edu_done">ହୋଇଗଲା</string>

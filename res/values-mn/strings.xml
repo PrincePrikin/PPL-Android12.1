@@ -373,7 +373,6 @@
     <string name="summary_app_suggestions">Тойм &amp; таны бүх аппын жагсаалтын дээр</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s, %2$s</string>
-    <string name="task_view_closed">Ажлыг хаасан</string>
     <string name="taskbar_edu_close">Хаах</string>
     <string name="taskbar_edu_closed">Боловсролын ажлын талбарыг хаасан</string>
     <string name="taskbar_edu_done">Дууссан</string>

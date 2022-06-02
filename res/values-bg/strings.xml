@@ -373,7 +373,6 @@
     <string name="summary_app_suggestions">На екрана „Общ преглед“ и в горната част на списъка „Всички приложения“</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s, %2$s</string>
-    <string name="task_view_closed">Задачата е затворена</string>
     <string name="taskbar_edu_close">Затваряне</string>
     <string name="taskbar_edu_closed">Урокът за лентата на задачите бе затворен</string>
     <string name="taskbar_edu_done">Готово</string>

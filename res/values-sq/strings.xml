@@ -373,7 +373,6 @@ tastierën"</string>
     <string name="summary_app_suggestions">Te \"Përmbledhja\" dhe në krye të listës \"Të gjitha aplikacionet\"</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s, %2$s</string>
-    <string name="task_view_closed">Detyra u mbyll</string>
     <string name="taskbar_edu_close">Mbyll</string>
     <string name="taskbar_edu_closed">Edukimi nga shiriti i detyrave u mbyll</string>
     <string name="taskbar_edu_done">U krye</string>

@@ -373,7 +373,6 @@ tipkovnico"</string>
     <string name="summary_app_suggestions">V možnosti »Pregled« in na vrhu seznama »Vse aplikacije«</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s, %2$s</string>
-    <string name="task_view_closed">Opravilo je zaprto</string>
     <string name="taskbar_edu_close">Zapri</string>
     <string name="taskbar_edu_closed">Poučni nasveti o opravilni vrstici so zaprti.</string>
     <string name="taskbar_edu_done">Končano</string>

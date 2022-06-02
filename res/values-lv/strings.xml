@@ -373,7 +373,6 @@ tastatūru"</string>
     <string name="summary_app_suggestions">Pārskatā un visu lietotņu saraksta augšdaļā</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s, %2$s</string>
-    <string name="task_view_closed">Uzdevums ir aizvērts</string>
     <string name="taskbar_edu_close">Aizvērt</string>
     <string name="taskbar_edu_closed">Tika aizvērta uzdevumjoslas apmācība</string>
     <string name="taskbar_edu_done">Gatavs</string>

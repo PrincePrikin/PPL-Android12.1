@@ -373,7 +373,6 @@ tastatur"</string>
     <string name="summary_app_suggestions">I Oversigt og øverst på listen Alle apps</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s, %2$s</string>
-    <string name="task_view_closed">Opgaven er lukket</string>
     <string name="taskbar_edu_close">Luk</string>
     <string name="taskbar_edu_closed">Vejledningen om proceslinjen blev lukket</string>
     <string name="taskbar_edu_done">Luk</string>

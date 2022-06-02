@@ -373,7 +373,6 @@ tastaturet"</string>
     <string name="summary_app_suggestions">I Oversikt og øverst på Alle apper-listen</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s, %2$s</string>
-    <string name="task_view_closed">Oppgaven er lukket</string>
     <string name="taskbar_edu_close">Lukk</string>
     <string name="taskbar_edu_closed">Opplæringen for oppgavelinjen er lukket</string>
     <string name="taskbar_edu_done">Ferdig</string>

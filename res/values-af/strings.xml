@@ -373,7 +373,6 @@ sleutelbord"</string>
     <string name="summary_app_suggestions">In Oorsig en aan die bokant van jou Alle Programme-lys</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s, %2$s</string>
-    <string name="task_view_closed">Taak is toegemaak</string>
     <string name="taskbar_edu_close">Maak toe</string>
     <string name="taskbar_edu_closed">Taakbalkopvoeding is toegemaak</string>
     <string name="taskbar_edu_done">Klaar</string>

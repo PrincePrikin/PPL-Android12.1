@@ -373,7 +373,6 @@ tastatura"</string>
     <string name="summary_app_suggestions">În Recente și în partea de sus a listei Toate aplicațiile</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s, %2$s</string>
-    <string name="task_view_closed">Activitatea s-a încheiat</string>
     <string name="taskbar_edu_close">Închideți</string>
     <string name="taskbar_edu_closed">Panoul cu informații despre bara de activități s-a închis</string>
     <string name="taskbar_edu_done">Gata</string>

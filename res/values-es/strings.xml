@@ -373,7 +373,6 @@ siempre"</string>
     <string name="summary_app_suggestions">En Aplicaciones recientes y en la parte superior de la lista Todas las aplicaciones</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s (%2$s)</string>
-    <string name="task_view_closed">Tarea cerrada</string>
     <string name="taskbar_edu_close">Cerrar</string>
     <string name="taskbar_edu_closed">Nota sobre la barra de tareas cerrada</string>
     <string name="taskbar_edu_done">Hecho</string>

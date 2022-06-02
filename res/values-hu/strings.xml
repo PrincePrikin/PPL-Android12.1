@@ -373,7 +373,6 @@ mindig megjelenítve"</string>
     <string name="summary_app_suggestions">Az Áttekintésben és az Összes alkalmazás lista tetején</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s, %2$s</string>
-    <string name="task_view_closed">A feladat bezárult</string>
     <string name="taskbar_edu_close">Bezárás</string>
     <string name="taskbar_edu_closed">Az eszköztár használatát ismertető panel bezárult</string>
     <string name="taskbar_edu_done">Kész</string>

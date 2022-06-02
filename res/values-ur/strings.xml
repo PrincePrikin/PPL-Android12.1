@@ -373,7 +373,6 @@
     <string name="summary_app_suggestions">مجموعی جائزے میں اور آپ کی تمام ایپس کی فہرست میں سب سے اوپر</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s،%2$s</string>
-    <string name="task_view_closed">ٹاسک بند ہے</string>
     <string name="taskbar_edu_close">بند کریں</string>
     <string name="taskbar_edu_closed">ٹاسک بار کا تعلیمی پینل بند ہو گیا</string>
     <string name="taskbar_edu_done">ہو گیا</string>

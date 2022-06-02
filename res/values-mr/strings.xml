@@ -373,7 +373,6 @@
     <string name="summary_app_suggestions">ओव्हरव्ह्यू मध्ये आणि तुमच्‍या सर्व अ‍ॅप्स सूचीच्या सर्वात वरती</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s, %2$s</string>
-    <string name="task_view_closed">टास्क बंद केली</string>
     <string name="taskbar_edu_close">बंद करा</string>
     <string name="taskbar_edu_closed">टास्कबारशी संबंधित माहिती देणारे पॅनल बंद केले आहे</string>
     <string name="taskbar_edu_done">पूर्ण झाले</string>

@@ -373,7 +373,6 @@
     <string name="summary_app_suggestions">У Прегледу и у врху листе Све апликације</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s, %2$s</string>
-    <string name="task_view_closed">Задатак је затворен</string>
     <string name="taskbar_edu_close">Затвори</string>
     <string name="taskbar_edu_closed">Едукативно окно из траке задатака је затворено</string>
     <string name="taskbar_edu_done">Готово</string>

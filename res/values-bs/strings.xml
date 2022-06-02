@@ -373,7 +373,6 @@ tastaturu"</string>
     <string name="summary_app_suggestions">U Pregledu i na vrhu liste Sve aplikacije</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s, %2$s</string>
-    <string name="task_view_closed">Zadatak je zatvoren</string>
     <string name="taskbar_edu_close">Zatvori</string>
     <string name="taskbar_edu_closed">Edukacija o programskoj traci je zatvorena</string>
     <string name="taskbar_edu_done">Gotovo</string>

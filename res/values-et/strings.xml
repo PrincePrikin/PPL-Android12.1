@@ -373,7 +373,6 @@ klaviatuur"</string>
     <string name="summary_app_suggestions">Ülevaatekuvas ja kõikide rakenduste loendi ülaosas</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s %2$s</string>
-    <string name="task_view_closed">Ülesanne suleti</string>
     <string name="taskbar_edu_close">Sule</string>
     <string name="taskbar_edu_closed">Tegumiriba juhised on suletud</string>
     <string name="taskbar_edu_done">Valmis</string>

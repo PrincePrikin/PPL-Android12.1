@@ -373,7 +373,6 @@ klávesnici"</string>
     <string name="summary_app_suggestions">V Přehledu a v horní části seznamu všech aplikací</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s, %2$s</string>
-    <string name="task_view_closed">Úkol byl zavřen</string>
     <string name="taskbar_edu_close">Zavřít</string>
     <string name="taskbar_edu_closed">Výuka k hlavnímu panelu byla zavřena</string>
     <string name="taskbar_edu_done">Hotovo</string>

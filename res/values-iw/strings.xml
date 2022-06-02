@@ -373,7 +373,6 @@
     <string name="summary_app_suggestions">"ב'מסכים האחרונים' ובראש רשימת האפליקציות"</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s, %2$s</string>
-    <string name="task_view_closed">המשימה סגורה</string>
     <string name="taskbar_edu_close">סגירה</string>
     <string name="taskbar_edu_closed">חלונית ההסברים על שורת המשימות נסגרה</string>
     <string name="taskbar_edu_done">סיום</string>

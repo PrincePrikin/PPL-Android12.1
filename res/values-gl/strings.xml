@@ -373,7 +373,6 @@ sempre"</string>
     <string name="summary_app_suggestions">En Visión xeral e na parte superior da lista Todas as aplicacións</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s (%2$s)</string>
-    <string name="task_view_closed">Tarefa pechada</string>
     <string name="taskbar_edu_close">Pechar</string>
     <string name="taskbar_edu_closed">Panel de información de barra de tarefas pechado</string>
     <string name="taskbar_edu_done">Feito</string>

@@ -373,7 +373,6 @@ keyboard"</string>
     <string name="summary_app_suggestions">Sa Overview at sa itaas ng iyong listahan ng Lahat ng App</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s, %2$s</string>
-    <string name="task_view_closed">Isinara ang Gawain</string>
     <string name="taskbar_edu_close">Isara</string>
     <string name="taskbar_edu_closed">Sarado ang edukasyon sa taskbar</string>
     <string name="taskbar_edu_done">Tapos na</string>

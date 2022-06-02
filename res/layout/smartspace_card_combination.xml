@@ -17,7 +17,6 @@
         layout="@layout/smartspace_combination_sub_card" />
     <include
         android:id="@id/second_sub_card"
-        android:visibility="gone"
         android:layout_width="0.0dip"
         android:layout_height="fill_parent"
         android:layout_marginStart="8.0dip"

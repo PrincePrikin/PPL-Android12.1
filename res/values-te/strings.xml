@@ -373,7 +373,6 @@
     <string name="summary_app_suggestions">అవలోకనంలో ఎగువన మీ అన్ని యాప్‌ల లిస్ట్‌ ఉంది</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s, %2$s</string>
-    <string name="task_view_closed">టాస్క్ మూసివేయబడింది</string>
     <string name="taskbar_edu_close">మూసివేయండి</string>
     <string name="taskbar_edu_closed">టాస్క్‌బార్ శిక్షణకు సంబంధించిన ప్యానెల్ మూసివేయబడింది</string>
     <string name="taskbar_edu_done">పూర్తయింది</string>

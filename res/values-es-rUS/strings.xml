@@ -368,7 +368,6 @@ siempre"</string>
     <string name="summary_app_suggestions">En Recientes y la parte superior de la lista Todas las apps</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s (%2$s)</string>
-    <string name="task_view_closed">Se cerró la tarea</string>
     <string name="taskbar_edu_close">Cerrar</string>
     <string name="taskbar_edu_closed">Se cerró la barra de herramientas Educación</string>
     <string name="taskbar_edu_done">Listo</string>

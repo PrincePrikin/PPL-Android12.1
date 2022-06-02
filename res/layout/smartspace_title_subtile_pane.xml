@@ -17,7 +17,6 @@
         app:layout_constraintVertical_weight="1.0" />
     <com.google.android.systemui.smartspace.DoubleShadowTextView
         android:id="@id/title_text"
-        android:focusable="true"
         android:layout_width="0.0dip"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toTopOf="@id/smartspace_subtitle_group"

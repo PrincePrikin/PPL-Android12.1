@@ -373,7 +373,6 @@ keyboard"</string>
     <string name="summary_app_suggestions">Di Ringkasan &amp; di bagian atas daftar Semua Aplikasi</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s, %2$s</string>
-    <string name="task_view_closed">Tugas Ditutup</string>
     <string name="taskbar_edu_close">Tutup</string>
     <string name="taskbar_edu_closed">Edukasi taskbar ditutup</string>
     <string name="taskbar_edu_done">Selesai</string>

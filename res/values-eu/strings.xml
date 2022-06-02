@@ -373,7 +373,6 @@ teklatua"</string>
     <string name="summary_app_suggestions">Ikuspegi orokorrean eta aplikazio guztien zerrendaren gainean</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s (%2$s)</string>
-    <string name="task_view_closed">Itxi da zeregina</string>
     <string name="taskbar_edu_close">Itxi</string>
     <string name="taskbar_edu_closed">Itxi egin da zereginen barraren tutoriala</string>
     <string name="taskbar_edu_done">Eginda</string>

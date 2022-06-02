@@ -373,7 +373,6 @@ göster"</string>
     <string name="summary_app_suggestions">"Genel Bakış'ta ve Tüm Uygulamalar listenizin en üstünde"</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s, %2$s</string>
-    <string name="task_view_closed">Görev Kapatıldı</string>
     <string name="taskbar_edu_close">Kapat</string>
     <string name="taskbar_edu_closed">Görev çubuğu eğitimi kapatıldı</string>
     <string name="taskbar_edu_done">Bitti</string>

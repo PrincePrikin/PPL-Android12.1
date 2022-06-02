@@ -373,7 +373,6 @@
     <string name="summary_app_suggestions">ಅವಲೋಕನದಲ್ಲಿ ಮತ್ತು ನಿಮ್ಮ ಎಲ್ಲಾ ಅಪ್ಲಿಕೇಶನ್‌ಗಳ ಪಟ್ಟಿಯ ಮೇಲ್ಭಾಗದಲ್ಲಿ</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s, %2$s</string>
-    <string name="task_view_closed">ಕಾರ್ಯವನ್ನು ಮುಚ್ಚಲಾಗಿದೆ</string>
     <string name="taskbar_edu_close">ಮುಚ್ಚಿರಿ</string>
     <string name="taskbar_edu_closed">ಟಾಸ್ಕ್‌ಬಾರ್ ಶಿಕ್ಷಣ ಮುಚ್ಚಿದೆ</string>
     <string name="taskbar_edu_done">ಮುಗಿದಿದೆ</string>

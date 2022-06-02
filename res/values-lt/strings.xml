@@ -373,7 +373,6 @@ klaviatūrą"</string>
     <string name="summary_app_suggestions">Apžvalgoje ir visų programų sąrašo viršuje</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s, %2$s</string>
-    <string name="task_view_closed">Užduotis uždaryta</string>
     <string name="taskbar_edu_close">Uždaryti</string>
     <string name="taskbar_edu_closed">Užduočių juostos patarimai uždaryti</string>
     <string name="taskbar_edu_done">Atlikta</string>

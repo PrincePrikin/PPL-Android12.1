@@ -373,7 +373,6 @@ göstərilsin"</string>
     <string name="summary_app_suggestions">İcmalda və Bütün Tətbiq siyahısının üstündə</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s, %2$s</string>
-    <string name="task_view_closed">Tapşırıq bağlanıb</string>
     <string name="taskbar_edu_close">Bağlayın</string>
     <string name="taskbar_edu_closed">Tapşırıq panelindəki təlim bölməsi bağlanıb</string>
     <string name="taskbar_edu_done">Hazırdır</string>

@@ -373,7 +373,6 @@ tipkovnicu"</string>
     <string name="summary_app_suggestions">Na Pregledu i pri vrhu popisa Sve aplikacije</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s, %2$s</string>
-    <string name="task_view_closed">Zadatak je zatvoren</string>
     <string name="taskbar_edu_close">Zatvori</string>
     <string name="taskbar_edu_closed">Upute za programsku traku su zatvorene</string>
     <string name="taskbar_edu_done">Gotovo</string>

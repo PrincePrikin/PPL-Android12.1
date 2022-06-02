@@ -373,7 +373,6 @@ doim chiqarilsin"</string>
     <string name="summary_app_suggestions">Umumiy nazar sahifasida va Barcha ilovalar roʻyxatining boshida</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s, %2$s</string>
-    <string name="task_view_closed">Vazifalar yopildi</string>
     <string name="taskbar_edu_close">Yopish</string>
     <string name="taskbar_edu_closed">Taʼlim vazifalar paneli yopildi</string>
     <string name="taskbar_edu_done">Tayyor</string>

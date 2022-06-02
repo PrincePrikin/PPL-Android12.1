@@ -373,7 +373,6 @@
     <string name="summary_app_suggestions">在「概覽」中和「全部應用程式」清單頂部</string>
     <string name="summary_collapsed_preference_list">%1$s、%2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s，%2$s</string>
-    <string name="task_view_closed">閂咗工作</string>
     <string name="taskbar_edu_close">關閉</string>
     <string name="taskbar_edu_closed">閂咗工作列教學</string>
     <string name="taskbar_edu_done">完成</string>

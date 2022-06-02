@@ -373,7 +373,6 @@
     <string name="summary_app_suggestions">ໃນພາບຮວມ ແລະ ເທິງສຸດຂອງລາຍຊື່ແອັບທັງໝົດຂອງທ່ານ</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s, %2$s</string>
-    <string name="task_view_closed">ປິດໜ້າວຽກແລ້ວ</string>
     <string name="taskbar_edu_close">ປິດ</string>
     <string name="taskbar_edu_closed">ປິດການສຶກສາແຖບໜ້າວຽກແລ້ວ</string>
     <string name="taskbar_edu_done">ແລ້ວໆ</string>

@@ -314,7 +314,6 @@ o teclado"</string>
     <string name="summary_app_suggestions">Na Visão geral e no topo da lista Todos os apps</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s, %2$s</string>
-    <string name="task_view_closed">Tarefa encerrada</string>
     <string name="taskbar_edu_close">Fechar</string>
     <string name="taskbar_edu_closed">As dicas sobre a barra de tarefas foram fechadas</string>
     <string name="taskbar_edu_done">Concluído</string>

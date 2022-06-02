@@ -314,7 +314,6 @@ keyboard"</string>
     <string name="summary_app_suggestions">In Overview &amp; at the top of your All Apps list</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s, %2$s</string>
-    <string name="task_view_closed">Task closed</string>
     <string name="taskbar_edu_close">Close</string>
     <string name="taskbar_edu_closed">Taskbar education closed</string>
     <string name="taskbar_edu_done">Done</string>
